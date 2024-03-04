@@ -23,8 +23,6 @@ Yes. The CloudWatch Logs Agent is integrated with Identity and Access Management
 
 ## Prerequiste
 
-![Cloud Watch](/images/3-Prerequiste/cw.png?featherlight=false&width=60pc)
-
 **Step 1:** Permissions
 
 **Step 2:** Create VPC
