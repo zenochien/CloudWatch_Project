@@ -3,7 +3,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-hugo server
+``hugo server``
 
 Runs the app in the development mode.
 Open http://localhost:1313 to view it in your browser.
