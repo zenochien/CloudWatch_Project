@@ -1,4 +1,4 @@
-![Cloud Watch](/images/3-Prerequiste/cw.png?featherlight=false&width=60pc)
+![Cloud Watch](static/images/3-Prerequiste/cw.png?featherlight=false&width=60pc)
 
 ## Introduction to Amazon CloudWatch
 
