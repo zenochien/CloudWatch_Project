@@ -1,6 +1,6 @@
 ![Cloud Watch](static/images/3-Prerequiste/cw.png?featherlight=false&width=60pc)
 
-##Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 hugo server
